@@ -1,6 +1,6 @@
 """
-Date: Feb,2026
-God: Karanveer Singh
+Date: feb 2026
+GOD : Karanveer Singh
 Project: Student library management system
 """
 
@@ -56,11 +56,11 @@ class Student():
 if __name__ == "__main__":
 
     Delhilibrary = Library(
-        ["vistas", "invention", "rich&poor", "indian", "macroeconomics", "microeconomics"])
+        ["Book no.1", "How to make your first million", "rich&poor", "Googliness", "macroeconomics", "microeconomics"])
     student = Student()
     track = []
 
-    print("\t\t\t\t\t\t\t♦♦♦♦♦♦♦ WELCOME TO THE DELHI LIBRARY ♦♦♦♦♦♦♦\n")
+    print("\t\t\t\t\t\t\t♦♦♦♦♦♦♦ Welcome Dear Recruiter,May god be with us. ♦♦♦♦♦♦♦\n")
     print("""CHOOSE WHAT YOU WANT TO DO:-\n1. Listing all books\n2. Borrow books\n3. Return books\n4. Donate books\n5. Track books\n6. exit the library\n""")
 
     while (True):
