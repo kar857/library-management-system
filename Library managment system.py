@@ -1,6 +1,6 @@
 """
-Date: 18 january 2021
-Author: Sanam kandar
+Date: 6 feb 2026
+gd; Karanveer Singh
 Project: Student library management system
 """
 
@@ -60,7 +60,7 @@ if __name__ == "__main__":
     student = Student()
     track = []
 
-    print("\t\t\t\t\t\t\t♦♦♦♦♦♦♦ WELCOME TO THE DELHI LIBRARY ♦♦♦♦♦♦♦\n")
+    print("\t\t\t\t\t\t\t♦♦♦♦♦♦♦ Welcome Dear Recruiter, May god be with us, myself karan ♦♦♦♦♦♦♦\n")
     print("""CHOOSE WHAT YOU WANT TO DO:-\n1. Listing all books\n2. Borrow books\n3. Return books\n4. Donate books\n5. Track books\n6. exit the library\n""")
 
     while (True):
